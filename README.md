@@ -12,11 +12,11 @@
 
 - I'm a **Full-Stack Software Engineer** 💻  
 - I'm a graduate of the **Udemy Full-Stack Development Bootcamp** 🥷  
-- I have a **Bachelor's degree from Virginia Commonwealth University** 🐏  
-- I love **hiking** and **mountain biking** 🚵‍♂️  
-- I’m preparing for **developer interviews** 🔭
+- I have a **Bachelor's Degree from Virginia Commonwealth University** 🐏  
+- I love **hiking** and **mountain biking!** 🚵‍♂️  
 - I have **2 years of experience with JavaScript** ⚡  
-- I’m currently learning **Java** ☕ 🌱  
+- I’m currently learning **Java** ☕ 🌱
+- I’m preparing for **developer interviews** 🔭
 
 ---
 
