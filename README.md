@@ -20,11 +20,6 @@
 
 ---
 
-### 🚀 Currently Working On A number of projects
-Check them out on my [GitHub](https://github.com/Cossra)!
-
----
-
 ## 🌟 Open to any feedback on my projects or code — always looking to **grow and improve**!
 
 ---
