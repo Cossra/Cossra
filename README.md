@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Full Stack Software Engineer
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cossrca@gmail.com)
@@ -14,7 +12,6 @@
 - I have **2 years of experience with .NET & Azure** ⚡  
 - I’m currently learning **Design Patterns** ☕ 🌱
 - I love **Hiking** and **Mountain Biking** 🚵‍♂️  
-- I’m preparing for **Interviews** 🔭
 
 ---
 
