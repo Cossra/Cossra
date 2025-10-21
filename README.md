@@ -1,22 +1,20 @@
 ## Hi there 👋
 
-# Full-Stack Software Engineer
+# Full Stack Software Engineer
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cossrca@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-coss/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://github.com/Cossra)
 
 ---
 
 # <u>My name is Robert</u>
-
-- I'm a **Full-Stack Software Engineer** 💻  
-- I'm a graduate of the **Udemy Full-Stack Development Bootcamp** 🥷  
+ 
+- I'm a graduate of the **Udemy Full Stack Development Bootcamp** 🥷  
 - I have a **Bachelor's Degree from Virginia Commonwealth University** 🐏  
-- I have **2 years of experience with Azure** ⚡  
+- I have **2 years of experience with .NET & Azure** ⚡  
 - I’m currently learning **Design Patterns** ☕ 🌱
 - I love **Hiking** and **Mountain Biking** 🚵‍♂️  
-- I’m preparing for **interviews** 🔭
+- I’m preparing for **Interviews** 🔭
 
 ---
 
