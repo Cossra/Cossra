@@ -18,13 +18,13 @@
 ### 🛠 Tech Stack
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![BACnet](https://img.shields.io/badge/BACnet-FF6B00?style=for-the-badge&logoColor=white)]()
-[![ALC](https://img.shields.io/badge/ALC-Automated%20Logic%20Controls-005BAC?style=for-the-badge&logoColor=white)]()
+[![BACnet](https://img.shields.io/badge/BACnet-Building%20Automation-FF6600?style=for-the-badge&logo=datadog&logoColor=white)]()
+[![Automated Logic](https://img.shields.io/badge/Automated%20Logic-Controls-003A70?style=for-the-badge&logo=carrier&logoColor=white)]()
 [![.NET](https://img.shields.io/badge/.NET-68217A?style=for-the-badge&logo=dotnet&logoColor=white)]()
 [![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)]()
 [![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
-[![Modbus](https://img.shields.io/badge/Modbus-1E4E8C?style=for-the-badge&logoColor=white)]()
+[![Modbus](https://img.shields.io/badge/Modbus-Industrial%20Protocol-D71920?style=for-the-badge&logo=siemens&logoColor=white)]()
 
 <p align="center">
   <b>Happy Coding!</b>
