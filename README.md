@@ -1,4 +1,4 @@
-# Full Stack Software Engineer
+# Data Center Controls & Software Engineer
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cossrca@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-coss/)
@@ -9,9 +9,9 @@
  
 - I'm a graduate of the **Udemy Full Stack Development Bootcamp** 🥷  
 - I have a **Bachelor's Degree from Virginia Commonwealth University** 🐏  
-- I have **2 years of experience with .NET & Azure** ⚡  
-- I’m currently learning **Design Patterns** ☕ 🌱
-- I love **Hiking** and **Mountain Biking** 🚵‍♂️  
+- I have **2 Years of experience with .NET** 🌱
+- I’m currently working in **Data Centers** ⚡ 
+- I love **Mountains** and **Animals!** 🚵‍♂️ 
 
 ---
 
